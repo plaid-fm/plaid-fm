@@ -1,0 +1,28 @@
+.footer {
+  background: rgb(17, 17, 17);
+}
+
+.footer .wrapper {
+  padding: 6rem 10rem;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer .wrapper .slogan {
+  padding: 1rem 0;
+}
+
+.footer .wrapper .slogan p {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Vaud-ExtraBold', Helvetica, Arial, serif;
+}
+
+.footer .wrapper .credits {
+  padding: 2rem 0rem;
+}
+
+.footer .wrapper .credits p {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Vaud', Helvetica, Arial, serif;
+}

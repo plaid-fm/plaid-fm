@@ -1,0 +1,30 @@
+.header {
+  background: rgba(246, 246, 246, 1);
+  font-family: 'HeimatMono-Bold', Helvetica, Arial, serif;
+}
+
+.header .wrapper {
+  padding: 6rem 10rem;
+}
+
+.header .wrapper h3 {
+  color: rgba(155, 155, 155, 1);
+  font-size: 14px;
+  letter-spacing: 3px;
+  line-height: 20px;
+}
+
+.header .wrapper h1 {
+  color: rgb(17, 17, 17);
+  font-family: 'vaud-extrabold', Helvetica, Arial, serif;
+  font-size: 60px;
+  line-height: 72px;
+  padding: 2rem 0;
+}
+
+.header .wrapper h2 {
+  line-height: 36px;
+  font-family: 'vaud', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-weight: 400;
+}

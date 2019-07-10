@@ -41,3 +41,29 @@ html {
   display: flex; /* NEW, Spec - Firefox, Chrome, Opera */
   flex-direction: column;
 }
+
+@font-face {
+  font-family: 'Vaud-ExtraBold';
+  src: url('/fonts/Vaud-ExtraBold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Vaud';
+  src: url('/fonts/Vaud.otf') format('opentype');
+}
+@font-face {
+  font-family: 'FuturaPT-Bold';
+  src: url('/fonts/.32874.otf') format('opentype');
+}
+@font-face {
+  font-family: 'FuturaPT-Medium';
+  src: url('/fonts/.10879.otf') format('opentype');
+}
+@font-face {
+  font-family: 'TapefontAlt';
+  src: url('/fonts/TAPEALT_.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'HeimatMono-Bold';
+  src: url('/fonts/Atlas Font Foundry - Heimat Mono Bold.otf')
+    format('opentype');
+}
