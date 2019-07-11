@@ -32,3 +32,9 @@
   line-height: 24px;
   font-family: 'Vaud', Helvetica, Arial, serif;
 }
+
+.footer .wrapper .links img {
+  height: 24px;
+  width: 24px;
+  padding-right: 0.75rem;
+}

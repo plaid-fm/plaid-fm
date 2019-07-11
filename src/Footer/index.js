@@ -1,5 +1,8 @@
 import React from 'react';
 
+import instagramLogo from './instagram.png';
+import twitterLogo from './twitter.png';
+
 import './style.css';
 
 const Footer = () => {
@@ -14,6 +17,22 @@ const Footer = () => {
         <div className="credits">
           <p>Brought to you by the Plaid FM team</p>
           <p>© Plaid Inc. 2019</p>
+        </div>
+        <div className="links">
+          <a
+            href="https://www.instagram.com/plaid/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={instagramLogo} alt="instagram logo" />
+          </a>
+          <a
+            href="https://twitter.com/Plaid"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={twitterLogo} alt="twitter logo" />
+          </a>
         </div>
       </div>
     </footer>
