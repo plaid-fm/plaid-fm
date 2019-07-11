@@ -6,10 +6,14 @@
   font-size: 24px;
   line-height: 32px;
   color: rgb(17, 17, 17);
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'vaud-extrabold', Helvetica, Arial, serif;
 }
 
 .listen .img-wrapper img {
   padding-top: 1rem;
   width: 70%;
+}
+
+.listen p {
+  padding: 0.25rem 0 0.75rem;
 }
