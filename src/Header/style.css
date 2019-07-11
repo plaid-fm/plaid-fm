@@ -16,7 +16,7 @@
 
 .header .wrapper h1 {
   color: rgb(17, 17, 17);
-  font-family: 'vaud-extrabold', Helvetica, Arial, serif;
+  font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   font-size: 60px;
   line-height: 72px;
   padding: 2rem 0;
@@ -24,7 +24,7 @@
 
 .header .wrapper h2 {
   line-height: 36px;
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'FuturaBook', Helvetica, Arial, serif;
   font-size: 24px;
   font-weight: 400;
 }

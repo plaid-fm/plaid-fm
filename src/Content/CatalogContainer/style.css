@@ -1,6 +1,5 @@
 .catalog {
   width: 50%;
-  font-family: 'vaud', Helvetica, Arial, serif;
 }
 
 .content .catalog h3 {
@@ -8,11 +7,11 @@
   line-height: 32px;
   color: rgb(17, 17, 17);
   letter-spacing: 0px;
-  font-family: 'vaud-extrabold', Helvetica, Arial, serif;
+  font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
 }
 
 .catalog p {
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'FuturaBook', Helvetica, Arial, serif;
   color: #4B4B4B;
   line-height: 24px;
   padding: 0.25rem 0 0.75rem;
@@ -31,6 +30,6 @@
 }
 
 .catalog strong {
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   font-style: bold;
 }
