@@ -6,7 +6,7 @@
   font-family: 'FuturaBook', Helvetica, Arial, serif;
   color: #4B4B4B;
   line-height: 24px;
-  padding: 0.25rem 0 0.75rem;
+  padding: 0.25rem 0 0.3rem;
 }
 
 .listen .title-wrapper h3 {
@@ -18,11 +18,12 @@
 }
 
 .listen .img-wrapper img {
-  padding-top: 1rem;
+  padding-top: 16px;
   width: 70%;
 }
 
 .listen strong {
   font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   font-style: bold;
+  padding-bottom: 0.75rem;
 }
