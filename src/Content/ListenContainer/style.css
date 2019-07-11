@@ -1,3 +1,11 @@
 .listen {
   width: 50%
 }
+
+.listen h3 {
+}
+
+.listen .img-wrapper img {
+  padding-top: 1rem;
+  width: 70%;
+}
