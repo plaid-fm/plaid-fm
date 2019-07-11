@@ -5,7 +5,7 @@ import './style.css';
 const ListenContainer = () => {
   return (
     <div className="listen">
-      <h2>Listen live with JQBX</h2>
+      <h3>Listen live with JQBX</h3>
       Listen live with other Plaids at the same time.
       <br />
       Requires Spotify Premium.

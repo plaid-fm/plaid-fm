@@ -1,8 +1,11 @@
 .listen {
-  width: 50%
+  width: 50%;
 }
 
-.listen h3 {
+.content .listen h3 {
+  font-size: 24px;
+  line-height: 32px;
+  color: rgb(17, 17, 17);
 }
 
 .listen .img-wrapper img {
