@@ -1,9 +1,24 @@
-.content {
-
+.content .wrapper {
+  padding: 6rem 10rem;
 }
 
-.content .wrapper  {
-  padding: 6rem 10rem;
+.content .wrapper h3 {
+  color: rgba(155, 155, 155, 1);
+  font-size: 14px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  padding-bottom: 2rem;
+}
+
+.content .wrapper h2 {
+  line-height: 48px;
+  font-size: 36px;
+  color: rgba(17, 17, 17, 1);
+  font-family: 'vaud', Helvetica, Arial, serif;
+  padding-bottom: 4rem;
+}
+
+.content .listen_containers {
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
