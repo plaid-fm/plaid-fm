@@ -1,2 +1,10 @@
 .content {
+
+}
+
+.content .wrapper  {
+  padding: 6rem 10rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
 }

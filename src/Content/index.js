@@ -1,9 +1,18 @@
 import React from 'react';
 
 import './style.css';
+import CatalogContainer from './CatalogContainer';
+import ListenContainer from './ListenContainer';
 
-const Footer = () => {
-  return <div>Content.</div>;
+const Content = () => {
+  return (
+    <div className="content">
+      <div className="wrapper">
+        <ListenContainer />
+        <CatalogContainer />
+      </div>
+    </div>
+  );
 };
 
-export default Footer;
+export default Content;
