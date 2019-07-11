@@ -51,6 +51,14 @@ html {
   src: url('/fonts/Vaud.otf') format('opentype');
 }
 @font-face {
+  font-family: 'FuturaBoldItalic';
+  src: url('/fonts/Supreme-Font/Futura Bold Italic font.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'FuturaBook';
+  src: url('/fonts/Supreme-Font/Futura Book font.ttf') format('opentype');
+}
+@font-face {
   font-family: 'FuturaPT-Bold';
   src: url('/fonts/.32874.otf') format('opentype');
 }

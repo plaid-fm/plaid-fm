@@ -8,14 +8,14 @@
   letter-spacing: 3px;
   line-height: 20px;
   padding-bottom: 2rem;
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'HeimatMono-Bold', Helvetica, Arial, serif;
 }
 
 .content .wrapper h2 {
   line-height: 48px;
   font-size: 36px;
   color: rgba(17, 17, 17, 1);
-  font-family: 'vaud', Helvetica, Arial, serif;
+  font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   padding-bottom: 4rem;
 }
 

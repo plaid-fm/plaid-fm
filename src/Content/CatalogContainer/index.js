@@ -4,7 +4,8 @@ import './style.css';
 
 const CatalogContainer = () => {
   return (
-    <div className="catalog">
+    <div className='catalog'>
+      <div className="title-wrapper">
       <h3>Stream from the Catalog</h3>
       <p>Hymns sang by Angels (kiddin')! Explore our</p>
       <p>Channel Catalog for tunes for just the right Mood.</p>
@@ -60,6 +61,8 @@ const CatalogContainer = () => {
           />
         </a>
       </div>
+
+
     </div>
   );
 };
