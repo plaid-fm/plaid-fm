@@ -11,6 +11,12 @@
   padding: 1rem 0;
 }
 
+.footer .wrapper .line {
+  border-bottom: 1px solid rgba(255, 255, 255, 1);
+  margin-right: 65%;
+  margin-bottom: 1rem;
+}
+
 .footer .wrapper .slogan p {
   font-size: 14px;
   line-height: 24px;

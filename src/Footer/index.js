@@ -7,6 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="wrapper">
         <div className="slogan">
+          <div className="line" />
           <p>It's not just a Plaiderdays project.</p>
           <p>It's a movement.</p>
         </div>
