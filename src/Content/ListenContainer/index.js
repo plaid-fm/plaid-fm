@@ -13,11 +13,14 @@ const ListenContainer = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <strong>Go to JQBX > </strong>
+        <strong>Go to JQBX ></strong>
       </a>
       <br />
       <div className="img-wrapper">
-        <img src="https://www.yourlocalplumber.co.uk/wp-content/uploads/2016/12/greensquare.jpg" />
+        <img
+          src="https://www.yourlocalplumber.co.uk/wp-content/uploads/2016/12/greensquare.jpg"
+          alt="jqbx link"
+        />
       </div>
     </div>
   );
