@@ -141,7 +141,7 @@
               n.a.createElement(
                 'p',
                 null,
-                'Explore our Channel Catalog below for tunes that suit juuuust the right Workflow Mood.',
+                'Channel Catalog below for tunes that suit juuuust the right Workflow Mood.',
               ),
               n.a.createElement(
                 'div',
