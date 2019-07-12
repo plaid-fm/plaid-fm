@@ -169,38 +169,42 @@ html {
 }
 @font-face {
   font-family: Vaud-ExtraBold;
-  src: url(/pages/treis/plaid-fm/static/fonts/Vaud-ExtraBold.otf)
+  src: url(https://plaid-fm.github.io/plaid-fm/static/fonts/Vaud-ExtraBold.otf)
     format('opentype');
 }
 @font-face {
   font-family: Vaud;
-  src: url(/pages/treis/plaid-fm/static/fonts/Vaud.otf) format('opentype');
+  src: url(https://plaid-fm.github.io/plaid-fm/static/fonts/Vaud.otf)
+    format('opentype');
 }
 @font-face {
   font-family: FuturaBoldItalic;
-  src: url('/pages/treis/plaid-fm/static/fonts/Supreme-Font/Futura Bold Italic font.ttf')
+  src: url('https://plaid-fm.github.io/plaid-fm/static/fonts/Supreme-Font/Futura Bold Italic font.ttf')
     format('opentype');
 }
 @font-face {
   font-family: FuturaBook;
-  src: url('/pages/treis/plaid-fm/static/fonts/Supreme-Font/Futura Book font.ttf')
+  src: url('https://plaid-fm.github.io/plaid-fm/static/fonts/Supreme-Font/Futura Book font.ttf')
     format('opentype');
 }
 @font-face {
   font-family: FuturaPT-Bold;
-  src: url(/pages/treis/plaid-fm/static/fonts/.32874.otf) format('opentype');
+  src: url(https://plaid-fm.github.io/plaid-fm/static/fonts/.32874.otf)
+    format('opentype');
 }
 @font-face {
   font-family: FuturaPT-Medium;
-  src: url(/pages/treis/plaid-fm/static/fonts/.10879.otf) format('opentype');
+  src: url(https://plaid-fm.github.io/plaid-fm/static/fonts/.10879.otf)
+    format('opentype');
 }
 @font-face {
   font-family: TapefontAlt;
-  src: url(/pages/treis/plaid-fm/static/fonts/TAPEALT_.TTF) format('truetype');
+  src: url(https://plaid-fm.github.io/plaid-fm/static/fonts/TAPEALT_.TTF)
+    format('truetype');
 }
 @font-face {
   font-family: HeimatMono-Bold;
-  src: url('/pages/treis/plaid-fm/static/fonts/Atlas Font Foundry - Heimat Mono Bold.otf')
+  src: url('https://plaid-fm.github.io/plaid-fm/static/fonts/Atlas.otf')
     format('opentype');
 }
 /*# sourceMappingURL=main.9456f52b.chunk.css.map */

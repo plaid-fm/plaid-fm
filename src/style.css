@@ -52,7 +52,8 @@ html {
 }
 @font-face {
   font-family: 'FuturaBoldItalic';
-  src: url('/fonts/Supreme-Font/Futura Bold Italic font.ttf') format('opentype');
+  src: url('/fonts/Supreme-Font/Futura Bold Italic font.ttf')
+    format('opentype');
 }
 @font-face {
   font-family: 'FuturaBook';
@@ -72,6 +73,5 @@ html {
 }
 @font-face {
   font-family: 'HeimatMono-Bold';
-  src: url('/fonts/Atlas Font Foundry - Heimat Mono Bold.otf')
-    format('opentype');
+  src: url('/fonts/Atlas.otf') format('opentype');
 }
