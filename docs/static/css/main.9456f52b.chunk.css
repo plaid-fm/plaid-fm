@@ -179,13 +179,11 @@ html {
 }
 @font-face {
   font-family: FuturaBoldItalic;
-  src: url('https://github.com/plaid-fm/plaid-fm/blob/master/docs/fonts/Supreme-Font/FuturaBoldItalicfont.ttf')
-    format('opentype');
+  src: url('/fonts/Supreme-Font/FuturaBoldItalicfont.ttf') format('opentype');
 }
 @font-face {
   font-family: FuturaBook;
-  src: url('https://github.com/plaid-fm/plaid-fm/blob/master/docs/fonts/Supreme-Font/FuturaBookfont.ttf')
-    format('opentype');
+  src: url('/fonts/Supreme-Font/FuturaBookfont.ttf') format('opentype');
 }
 @font-face {
   font-family: FuturaPT-Bold;
