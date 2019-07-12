@@ -33,7 +33,7 @@
 }
 .header {
   font-family: HeimatMono-Bold, Helvetica, Arial, serif;
-  background: url(/pages/treis/plaid-fm/static/img/header-bg@2x.png);
+  background: url(https://github.plaid.com/raw/treis/plaid-fm/master/public/img/header-bg%402x.png?token=AAABTU63aF0MUTyAwhx-wplYr067eD-kks5dMRjcwA%3D%3D);
   background-repeat: no-repeat;
   background-size: 50%;
   background-position: 100%;
