@@ -1,6 +1,9 @@
 .header {
-  background: rgba(246, 246, 246, 1);
   font-family: 'HeimatMono-Bold', Helvetica, Arial, serif;
+  background: url('/img/header-bg@2x.png');
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: right;
 }
 
 .header .wrapper {
@@ -15,7 +18,7 @@
 }
 
 .header .wrapper h1 {
-  color: rgb(17, 17, 17);
+  color: #f44e66;
   font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   font-size: 60px;
   line-height: 72px;

@@ -12,7 +12,7 @@
 
 .catalog p {
   font-family: 'FuturaBook', Helvetica, Arial, serif;
-  color: #4B4B4B;
+  color: #4b4b4b;
   line-height: 24px;
   padding: 0.25rem 0 0.75rem;
 }
@@ -23,16 +23,16 @@
   justify-content: space-between;
 }
 
-.catalog .img-wrapper a {
-  width: 100px;
-  padding: 0.25rem 0;
-}
-
 .catalog .img-wrapper a img {
-  width: 100px;
+  width: 30%;
+  padding: 0.5rem 0.5rem 0 0;
 }
 
 .catalog strong {
   font-family: 'FuturaBoldItalic', Helvetica, Arial, serif;
   font-style: bold;
+}
+
+.inner_row:nth-child(2) {
+  margin-top: -4px;
 }
