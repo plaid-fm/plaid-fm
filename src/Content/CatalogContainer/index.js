@@ -7,7 +7,7 @@ const CatalogContainer = () => {
     <div className="catalog">
       <div className="title-wrapper">
         <h3>Stream from the Catalog</h3>
-        <p>Hymns sang by Angels (kiddin')! Explore our</p>
+        <p>Hymns sung by Angels (kiddin')! Explore our</p>
         <p>
           Explore our Channel Catalog below for tunes that suit juuuust the
           right Workflow Mood.
