@@ -20,7 +20,7 @@ const CatalogContainer = () => {
               rel="noopener noreferrer"
             >
               <img
-                src="https://pl.scdn.co/images/pl/default/daf85b89c1bb308fbc3f529a5a37d29934b7849d"
+                src="https://pl.scdn.co/images/pl/default/114f0b4878e7c0a5c995deea9cc9f889ac3d40b2"
                 alt="album artwork"
               />
             </a>
